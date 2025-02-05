@@ -1,7 +1,7 @@
 
 # Paper recreation
 
-This application was developed in purposes of recreating the academic paper about predicting the next word from coq code, but using transformer model instead of RNN's. Paper: https://arxiv.org/pdf/2006.16743v1
+This model was developed in purposes of recreating the academic paper about predicting the next word from coq code, but using transformer model instead of RNN's. Paper: https://arxiv.org/pdf/2006.16743v1
 
 ## Disclaimer
 Due to the fact that I encountered the task very late the structure of files is absolutetly horrendous and everything is developed in `main_file.ipynb`.
